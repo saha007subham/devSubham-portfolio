@@ -1,16 +1,45 @@
-# React + Vite
+🚀 Subham Saha — Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A premium futuristic developer portfolio built using React.js, Vite, Tailwind CSS, Framer Motion, and modern frontend technologies.
 
-Currently, two official plugins are available:
+Designed with cinematic animations, glassmorphism UI, smooth interactions, and high-performance architecture to showcase projects, experience, and frontend engineering expertise.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+✨ Features
+⚡ Built with React + Vite
+🎨 Modern UI with Tailwind CSS
+🎥 Smooth animations using Framer Motion
+🌌 Glassmorphism + futuristic design system
+📱 Fully responsive across devices
+🧠 Interactive sections & hover effects
+🚀 Performance optimized
+🌙 Dark mode inspired visuals
+🧩 Reusable scalable component architecture
+💼 Projects, Skills, Experience & Contact sections
+🛠️ Tech Stack
+React.js
+Vite
+Tailwind CSS
+Framer Motion
+JavaScript (ES6+)
+Lucide React Icons
+📂 Project Structure
+src/
+├── assets/
+├── components/
+├── sections/
+├── hooks/
+├── utils/
+├── data/
+├── App.jsx
+└── main.jsx
 
-## React Compiler
+A futuristic cinematic frontend developer portfolio inspired by premium Awwwards-style websites.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+👨‍💻 Author
+Subham Saha
 
-## Expanding the ESLint configuration
+Frontend Engineer specializing in React.js, scalable frontend systems, performance optimization, and premium user experiences.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📄 License
+
+This project is open-source and available under the MIT License.
